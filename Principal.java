@@ -2,7 +2,7 @@ package Atividade1;
 
 import java.util.Scanner;
 
-public class Principal {
+public class Atividade1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
